@@ -19,7 +19,7 @@
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_DS/blob/master/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
-## Какой кейс решаем? 1
+## Какой кейс решаем? 
 
 Анализируем базу данных при помощи SQL-запросов, выявляем взаимосвязи.
 
@@ -29,7 +29,9 @@
 ## Краткая информация о данных
 
 База данных с вакансиями от HeadHunter
+
 Города-миллионники:  https://ru.wikipedia.org/wiki/Города-миллионеры_России
+
 Наукограды России: https://ru.wikipedia.org/wiki/Наукограды_России
   
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_DS/blob/master/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
