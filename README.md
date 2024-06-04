@@ -2,7 +2,7 @@
 
 # Оглавление
  
-[1. Описание проекта](https://github.com/mawlukanec/sf_DS/tree/master#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[1. Описание проекта](https://github.com/mawlukanec/sf_DS/blob/master/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
 [2. Какой кейс решаем?](https://github.com/mawlukanec/sf_DS/tree/master#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC-1)
 
@@ -46,7 +46,7 @@
 
 5 - Дополнительные исследования по проекту
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_DS/tree/master#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_DS/blob/master/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 # Выводы:  
@@ -60,7 +60,7 @@
 
 - Для дальнейшего анализа интересно посмотреть взаимосвязи в разрезе опыта, количестве ключевых навыков, уровня зарплаты по крупным IT команиям.
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_DS/tree/master#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_DS/blob/master/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами 
